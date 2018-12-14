@@ -1,6 +1,8 @@
 body {
-    background: #66d9ff;
+    background-image: url(jellyfish.jpg);
+    background-repeat: repeat;
     font-family: sans-serif;
+    color: aliceblue;
 }
 div {
     margin: auto;
@@ -14,5 +16,5 @@ blockquote {
 }
 
 h1 {
-    color: black;
+    color: white;
 }
